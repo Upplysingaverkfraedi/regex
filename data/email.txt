@@ -1,0 +1,11 @@
+helgaingim@hi.is
+hei2@hi.is
+john.smith@new-world.us
+python101@regex101.edu.com
+john.smith@new-world
+@noaddress.com
+plainaddress
+of@langt.domainnafn
+jane.doe@@hi.is
+username@.com
+email@domain..com
